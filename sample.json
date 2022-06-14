@@ -1,0 +1,42 @@
+{
+    "001": {
+        
+        "Final_Schedule": {
+            "01": {
+                "Matt": "duty",
+                "John": "rest",
+                "Bill": "commitment"
+            },
+            "02": {
+                "Matt": "duty",
+                "John": "rest",
+                "Bill": "commitment"
+            },
+            "03": {
+                "Matt": "commitment",
+                "John": "rest",
+                "Bill": "duty"
+            },
+            "04": {
+                "Matt": "duty",
+                "John": "rest",
+                "Bill": "commitment"
+            },
+            "05": {
+                "Matt": "rest",
+                "John": "duty",
+                "Bill": "commitment"
+            },
+            "06": {
+                "Matt": "duty",
+                "John": "rest",
+                "Bill": "commitment"
+            },
+            "07": {
+                "Matt": "duty",
+                "John": "commitment",
+                "Bill": "rest"
+            }
+        }
+    }
+}
